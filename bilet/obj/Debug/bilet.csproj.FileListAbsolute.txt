@@ -1,0 +1,10 @@
+C:\Users\Beard Josef\Source\Repos\bilet\bilet\bin\Debug\bilet.exe.config
+C:\Users\Beard Josef\Source\Repos\bilet\bilet\bin\Debug\bilet.exe
+C:\Users\Beard Josef\Source\Repos\bilet\bilet\bin\Debug\bilet.pdb
+C:\Users\Beard Josef\Source\Repos\bilet\bilet\obj\Debug\bilet.csprojResolveAssemblyReference.cache
+C:\Users\Beard Josef\Source\Repos\bilet\bilet\obj\Debug\bilet.Form1.resources
+C:\Users\Beard Josef\Source\Repos\bilet\bilet\obj\Debug\bilet.Properties.Resources.resources
+C:\Users\Beard Josef\Source\Repos\bilet\bilet\obj\Debug\bilet.csproj.GenerateResource.Cache
+C:\Users\Beard Josef\Source\Repos\bilet\bilet\obj\Debug\bilet.csproj.CoreCompileInputs.cache
+C:\Users\Beard Josef\Source\Repos\bilet\bilet\obj\Debug\bilet.exe
+C:\Users\Beard Josef\Source\Repos\bilet\bilet\obj\Debug\bilet.pdb
